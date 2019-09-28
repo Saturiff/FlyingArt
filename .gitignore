@@ -1,0 +1,33 @@
+# UE4 default
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Without private file
+Config
+Source
+*.uproject
+/Content/Blueprints
+/Content/Collections
+/Content/Developers
+/Content/FlyingArt/DebugUI
+/Content/FlyingArt/DesertDragon
+/Content/KiteDemo
+/Content/Maps
+/Content/Meshes
+/Content/Movies
+/Content/StarterContent
+/Content/UI
+/Content/UnkaDragon
+/Content/*.uasset
